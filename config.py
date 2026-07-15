@@ -19,13 +19,13 @@ class Config:
     FSUB_CHANNEL1_TITLE = "Team Cinderella"
     FSUB_CHANNEL1_URL = "https://t.me/TeamCinderella"
 
-    FSUB_CHANNEL2_ID = int(environ.get("FSUB_CHANNEL2_ID", "-1003910364346"))
+    FSUB_CHANNEL2_ID = int(environ.get("FSUB_CHANNEL2_ID", "-1003963655401"))
     FSUB_CHANNEL2_TITLE = "Cinderella Reviews"
-    FSUB_CHANNEL2_URL = "https://t.me/Cinderella_Reviews"
+    FSUB_CHANNEL2_URL = "https://t.me/+Phi2HMwASUlkNzVl"
 
-    FSUB_CHANNEL3_ID = int(environ.get("FSUB_CHANNEL3_ID", "-1004361013010"))
+    FSUB_CHANNEL3_ID = int(environ.get("FSUB_CHANNEL3_ID", "-1003944264831"))
     FSUB_CHANNEL3_TITLE = "Cinderella Updates"
-    FSUB_CHANNEL3_URL = "https://t.me/Cinderella_Updates"
+    FSUB_CHANNEL3_URL = "https://t.me/+A5XyzwchhiVhNzM1"
 
     FSUB_CHANNELS_INFO = [
         {"id": FSUB_CHANNEL1_ID, "title": FSUB_CHANNEL1_TITLE, "url": FSUB_CHANNEL1_URL},
